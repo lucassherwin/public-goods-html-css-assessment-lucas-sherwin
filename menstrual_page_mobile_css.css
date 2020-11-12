@@ -1,0 +1,61 @@
+#page1 {
+    background-image: url("./menstrual-hero_mobile.jpg");
+    background-size: 100% 100%;
+    height: 600px;
+    width: 600px;
+    max-width: 50%;
+}
+
+#page2 {
+    background-image: url("./bamboo_mobile.jpg");
+    background-size: 100% 100%;
+    height: 500px;
+    width: 100%;
+    color: white;
+    height: 600px;
+    width: 600px;
+}
+
+#page2_header {
+    text-align: center;
+    padding: 90px 0;
+}
+
+#page2_text {
+    text-align: center;
+    position: relative;
+}
+
+#page3 {
+    background-image: url("./pad_detail_mobile.jpg");
+    background-size: 100% 100%;
+    height: 500px;
+    width: 50%;
+    height: 600px;
+    width: 600px;
+}
+
+#page4 {
+    background-image: url("./pad_in_hand_mobile.jpg");
+    background-size: 100% 100%;
+    height: 500px;
+    width: 50%;
+    height: 600px;
+    width: 600px;
+    text-align: center;
+}
+
+#bottom-button {
+    position: absolute;
+
+    left: 0;
+}
+
+#new {
+    background-image: url("./new-to-public-goods_mobile.jpg");
+    background-size: 100% 100%;
+    height: 500px;
+    width: 50%;
+    height: 600px;
+    width: 600px;
+}
